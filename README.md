@@ -52,7 +52,7 @@ To run the notebook correctly, the current column layout and overall file format
 
 **CAC40 Heston Fair Strikes**:
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/1f2b7114-bbe6-4ff7-890f-5f1966b00a73" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/1f2b7114-bbe6-4ff7-890f-5f1966b00a73" />
 
 ---
 
